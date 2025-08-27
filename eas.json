@@ -1,0 +1,30 @@
+{
+  "cli": {
+    "version": ">= 7.3.0",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "android": {
+        "releaseChannel": "production"
+      },
+      "ios": {
+        "releaseChannel": "production",
+        "image": "macos-sequoia-15.3-xcode-16.2",
+        "distribution": "store",
+        "autoIncrement": true,
+        "buildConfiguration": "Release"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

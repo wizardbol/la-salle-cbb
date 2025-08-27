@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12979841531",
+    "project_id": "lasalle-cbb",
+    "storage_bucket": "lasalle-cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12979841531:android:d884c0e5ddf30fa104035e",
+        "android_client_info": {
+          "package_name": "com.vcampero.lasallecbb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrAeXzIGK83Dtpd5IYQy3GVgn5tVM7Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
