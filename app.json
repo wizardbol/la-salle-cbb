@@ -2,7 +2,7 @@
   "expo": {
     "name": "la-salle-cbb",
     "slug": "la-salle-cbb",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -19,7 +19,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.vcampero.lasallecbb",
       "googleServicesFile": "./assets/GoogleService-Info.plist",
-      "buildNumber": "13",
+      "buildNumber": "8",
       "infoPlist": {
         "NSUserTrackingUsageDescription": "Esta app requiere permiso para enviar notificaciones.",
         "UIBackgroundModes": [
@@ -35,7 +35,7 @@
       },
       "package": "com.vcampero.lasallecbb",
       "googleServicesFile": "./assets/google-services.json",
-      "versionCode": 13,
+      "versionCode": 8,
       "permissions": [
         "USER_FACING_NOTIFICATION",
         "INTERNET"
